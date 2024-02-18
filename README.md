@@ -57,4 +57,4 @@ Structure your report by using the report template that _Starter_Code.zip_ inclu
 
 ## Credits 
 * Received comments and guidance from Instructor, Teaching Assistant 
-* Used stackoverflow and module documentation for specific details
+* Used StackOverflow and module documentation for specific details
